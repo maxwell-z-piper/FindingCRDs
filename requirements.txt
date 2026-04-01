@@ -1,0 +1,10 @@
+numpy
+astropy
+scipy
+matplotlib
+requests
+ppxf==9.4.5
+capfit
+pafit
+tqdm
+plotbin
