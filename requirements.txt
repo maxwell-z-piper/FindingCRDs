@@ -3,7 +3,7 @@ astropy
 scipy
 matplotlib
 requests
-ppxf==9.4.5
+ppxf==8.1.0
 capfit
 pafit
 tqdm
