@@ -70,8 +70,8 @@ if __name__ == '__main__':
     t0 = time.perf_counter()
 
     steps = [
-        #('Download',       run_step1),
-        #('DAP moments=4',  run_step2),
+        ('Download',       run_step1),
+        ('DAP moments=4',  run_step2),
         ('CRD Finder',     run_step3),
     ]
 
