@@ -32,7 +32,7 @@ import warnings
 from astropy.io import fits
 from mangadap.dapfits import DAPMapsBitMask
 from mangadap.util.fileio import channel_dictionary
-from pafit.fit_kinematic_pa import fit_kinematic_pa
+from fit_kinematic_pa import fit_kinematic_pa
 from scipy.signal import find_peaks
 
 warnings.filterwarnings("ignore")
